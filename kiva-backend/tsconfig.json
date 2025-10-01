@@ -5,8 +5,9 @@
     "rootDir": "src",
     "outDir": "dist",
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+     "forceConsistentCasingInFileNames": true,
   },
-  "include": ["src"],
+  "include": ["src", "../kiva-frontend/web/src/app/dishes"],
   "exclude": ["node_modules"]
 }
