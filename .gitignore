@@ -1,0 +1,39 @@
+# Node modules
+**/node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Windows-specific files
+*.cmd
+*.bat
+
+# Editor directories
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Tailwind cache (optional)
+.tailwindcache
+
+# Storybook (if used)
+storybook-static/
